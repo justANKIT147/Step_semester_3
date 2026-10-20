@@ -16,7 +16,7 @@
 
 ---
 
-## Date: 19-10-2026
+## Date: 10-10-2026
 
 **Today's Work:**
 - Implemented and verified Week 9 Data Structures & Algorithms assignments (feature/session_9):
@@ -34,7 +34,7 @@
 
 ---
 
-## Date: 19-10-2026
+## Date: 3-10-2026
 
 **Today's Work:**
 - Implemented and verified Week 8 Object-Oriented System Design assignments (feature/session_8):
@@ -52,7 +52,7 @@
 
 ---
 
-## Date: 19-10-2026
+## Date: 26-09-2026
 
 **Today's Work:**
 - Implemented and verified Week 7 Abstraction & Interfaces assignments (feature/session_7):
@@ -70,7 +70,7 @@
 
 ---
 
-## Date: 19-10-2026
+## Date: 19-09-2026
 
 **Today's Work:**
 - Implemented and verified Week 6 Inheritance & Polymorphism assignments (feature/session_6):
@@ -88,7 +88,7 @@
 
 ---
 
-## Date: 19-10-2026
+## Date: 19-09-2026
 
 **Today's Work:**
 - Implemented and verified Week 5 Access Modifiers & Encapsulation assignments (feature/session_5):
@@ -106,7 +106,7 @@
 
 ---
 
-## Date: 18-10-2026
+## Date: 12-09-2026
 
 **Today's Work:**
 - Implemented and verified Week 4 Constructors & Java Keywords assignments (feature/session_4):
@@ -124,7 +124,7 @@
 
 ---
 
-## Date: 18-10-2026
+## Date: 12-09-2026
 
 **Today's Work:**
 - Implemented and verified Week 3 Classes & Objects assignments (feature/session_3):
@@ -142,7 +142,7 @@
 
 ---
 
-## Date: 18-10-2026
+## Date: 29-08-2026
 
 **Today's Work:**
 - Implemented and verified Week 2 String assignments (feature/session_2):
